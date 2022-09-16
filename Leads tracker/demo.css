@@ -1,0 +1,52 @@
+body
+{
+    padding: 2px;
+font-family:italic;
+min-width:400px;
+}
+button
+{
+    background:#5f9341;
+    margin-top: 10px;
+    padding :10px 20px;
+    border:1px solid #5f9341;
+      font-weight:Bold; 
+      width:30%;
+      height:25%
+    
+
+}
+font{
+    color:goldenrod
+}   
+input{
+    width:100%;
+    height:20%
+}
+div{
+    color:black
+}
+ul
+{
+    list-style:none;
+     color:green;
+    list-style-position:inside
+}
+li
+{
+    margin-top:20px
+}
+li a{
+    color:green
+}
+#delbtn
+{
+
+        margin-top: 10px;
+        background:white;
+        padding :10px 20px;
+        border:1px solid #5f9341;
+        font-weight:Bold; 
+        width:30%;
+        float:true;
+}
